@@ -1,7 +1,7 @@
 BC learning for images
 =========================
 
-Implementation of [Between-class Learning for Image Classification](https://arxiv.org/abs/1711.10284) by Yuji Tokozume, Yoshitaka Ushiku, and Tatsuya Harada. **Modified by group of students from the TU Delft in order to reproduce the results as a practice for the Deep Learning course.**
+Implementation of [Between-class Learning for Image Classification](https://arxiv.org/abs/1711.10284) by Yuji Tokozume, Yoshitaka Ushiku, and Tatsuya Harada. **Modified by group of students from the TU Delft in order to reproduce the results as a practice for the Deep Learning course. Further instructions for the reproduction are written in the Notebook which is available in Google Colabs.**
 
 Our preliminary experimental results on CIFAR-10 and ImageNet-1K were already presented in ILSVRC2017 on July 26, 2017.
 
